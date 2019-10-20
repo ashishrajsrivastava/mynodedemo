@@ -1,0 +1,13 @@
+{
+    "name": "simple-node",
+    "version": "1.0.0",
+    "description": "A simple node app for k8s up and running.",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^3.21.2"
+    },
+    "author": "Ashish Raj"
+}
